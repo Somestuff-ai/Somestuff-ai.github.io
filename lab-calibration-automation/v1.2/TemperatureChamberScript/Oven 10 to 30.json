@@ -1,0 +1,46 @@
+{
+    "tests": [
+        {
+            "temperature": 10,
+            "time_elapsed": "03:00:00",
+            "sleep_time": 60
+        },
+        {
+            "temperature": 20,
+            "time_elapsed": "06:00:00",
+            "sleep_time": 60
+        },
+        {
+            "temperature": 30,
+            "time_elapsed": "09:00:00",
+            "sleep_time": 60
+        },
+        {
+            "temperature": 20,
+            "time_elapsed": "12:00:00",
+            "sleep_time": 60
+        }
+    ],
+    "serial_ports": {
+        "1": {
+            "port": "COM3",
+            "baudrate": 9600
+        },
+        "2": {
+            "port": "COM4",
+            "baudrate": 9600
+        },
+        "3": {
+            "port": "COM15",
+            "baudrate": 9600
+        },
+        "7": {
+            "port": "COM11",
+            "baudrate": 9600
+        },
+        "14": {
+            "port": "COM14",
+            "baudrate": 2400
+        }
+    }  
+}
