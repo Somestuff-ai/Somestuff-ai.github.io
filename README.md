@@ -23,4 +23,4 @@
 - **What I Learned:** Power BI report design, data visualization best practices, handling transportation datasets.  
 - **Tools:** Power BI, SQL  
 - **Achievements:** Created a detailed dashboard for personal use to understand and visualize railway data trends.  
-- **GitHub:** [dlr-railway-data-analysis]([https://github.com/Somestuff-ai/](https://github.com/Somestuff-ai/somestuff-ai.github.io/tree/main/dlr-railway-data-analysis)
+- **GitHub:** [dlr-railway-data-analysis](https://github.com/Somestuff-ai/somestuff-ai.github.io/tree/main/dlr-railway-data-analysis)
