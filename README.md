@@ -5,7 +5,7 @@
 - **What I Learned:** Automation of lab data collection, UI design with Tkinter, integrating scripts for UKAS accreditation compliance.  
 - **Libraries & Tools:** Python, Tkinter, pandas, numpy  
 - **Achievements:** Software successfully submitted for UKAS accreditation, improving lab efficiency and data accuracy.  
-- **GitHub:** [lab-calibration-automation](https://github.com/Somestuff-ai.github.io/lab-calibration-automation)
+- **GitHub:** [lab-calibration-automation](https://github.com/Somestuff-ai/Somestuff-ai.github.io/lab-calibration-automation)
 
 ---
 
