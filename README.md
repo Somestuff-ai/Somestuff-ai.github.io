@@ -14,7 +14,7 @@
 - **What I Learned:** Data modeling, DAX calculations, version control visualization, stakeholder reporting.  
 - **Tools:** Power BI, DAX, SQL, Databricks, Python (for data prep)  
 - **Achievements:** Improved visibility into project pipeline changes, enabling timely management decisions.  
-- **GitHub:** [ms-value-optimisation-dashboard]((https://github.com/Somestuff-ai/somestuff-ai.github.io/tree/main/ms-value-optimisation-dashboard)
+- **GitHub:** [ms-value-optimisation-dashboard](https://github.com/Somestuff-ai/somestuff-ai.github.io/tree/main/ms-value-optimisation-dashboard)
 
 ---
 
